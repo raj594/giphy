@@ -1,3 +1,7 @@
 .still {
 	float: left;
 }
+
+body {
+	background-color: lightblue;
+}
